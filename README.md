@@ -7,5 +7,5 @@
 
 -----------------------------------------
 ###  - The Second Course: **Tools For Data Science**
-This course dives deep into the data scientist's toolbox, teaching you the essential libraries, datasets, and big data tools. You'll gain an introduction to Python, R, and SQL, the core languages of data science, and master powerful environments like Jupyter notebooks and RStudio. Finally, learn how to manage your code effectively with Git for seamless collaboration. (Very simple programming)
+       This course dives deep into the data scientist's toolbox, teaching you the essential libraries, datasets, and big data tools. You'll gain an introduction to Python, R, and SQL, the core languages of data science, and master powerful environments like Jupyter notebooks and RStudio. Finally, learn how to manage your code effectively with Git for seamless collaboration. (Very simple programming)
  ----------------------------------
